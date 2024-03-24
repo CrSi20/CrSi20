@@ -1,4 +1,12 @@
-### Hi there 👋
+## Hello👋 Welcome to my GitHub account!
+
+My name is Cristiana Silva. I am currently participating in a coding boot camp where I am learning about *Python* and *algorithms*, amongst others. I aim to learn coding skills, different coding languages, and algorithms. I am planning to start a career as a software engineer soon.
+
+I am living in the UK, and I am originally from Braga, Portugal. Here you find a photograph of my small, but amazing city!
+
+📫 You can reach me via my email: cristianassilva10@gmail.com
+
+<img src="/Braga.jpg" width="300">
 
 <!--
 **CrSi20/CrSi20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
